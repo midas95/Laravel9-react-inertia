@@ -40,17 +40,6 @@
 * [Argon Dashboard 2](https://www.creative-tim.com/product/argon-dashboard)
 * [Laravel Socialite](https://github.com/laravel/socialite)
 
-## Screenshoot
-
-| Login | Register | Landing Page |
-| --- | --- | --- |
-| [![Login](https://raw.githubusercontent.com/agungksidik/public-assets/master/laravel9-inertiajs-reactjs-starter/login_page.png)](#) | [![Register](https://raw.githubusercontent.com/agungksidik/public-assets/master/laravel9-inertiajs-reactjs-starter/register_page.png)](#) | [![Landing Page](https://raw.githubusercontent.com/agungksidik/public-assets/master/laravel9-inertiajs-reactjs-starter/home_page.png)](#) |
-
-| Dashboard | Manage User | Profile Page |
-| --- | --- | --- |
-| [![Dashboard](https://raw.githubusercontent.com/agungksidik/public-assets/master/laravel9-inertiajs-reactjs-starter/dashboard_page.png)](#) | [![Manage User](https://raw.githubusercontent.com/agungksidik/public-assets/master/laravel9-inertiajs-reactjs-starter/manage_user.png)](#) | [![Profile Page](https://raw.githubusercontent.com/agungksidik/public-assets/master/laravel9-inertiajs-reactjs-starter/profile_page.png)](#) |
-
-<!-- ROADMAP -->
 ## Roadmap
 
 - [x] Integrations Argon Dashboard 2 HTML template to ReactJs
@@ -64,7 +53,6 @@
 - [ ] Activity Log
 - [ ] Roles and Permissions
 
-See the [open issues](https://github.com/agungksidik/laravel9-inertiajs-reactjs-starter/issues) for a full list of proposed features (and known issues).
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -82,7 +70,7 @@ install Composer & NodeJs
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/agungksidik/laravel9-inertiajs-reactjs-starter.git
+   git clone https://github.com/sweatydev/Laravel9-react-inertia.git
    ```
 2. Install dependency Laravel
    ```sh
@@ -134,33 +122,7 @@ install Composer & NodeJs
    default '123456'
    ```
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-
-<!-- LICENSE -->
-## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-
-<!-- CONTACT -->
-## Contact
-
-Agung Sidik Muhamad - [@agungksidik](https://twitter.com/agungksidik) - agungksidik@gmail.com
-
-Project Link: [https://github.com/agungksidik/laravel9-inertiajs-reactjs-starter](https://github.com/agungksidik/laravel9-inertiajs-reactjs-starter)
 
